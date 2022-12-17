@@ -17,12 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![]()
+![](https://raw.githubusercontent.com/GitsOfVivek/product-preview-card-component/main/desktop.png)
+![](https://raw.githubusercontent.com/GitsOfVivek/product-preview-card-component/main/mobile.png)
 
 ### Links
 
-- Solution URL: [QR Code Componenet Solution](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Visit Live](https://vivek-qr-code-component.netlify.app/)
+- Solution URL: [QR Code Componenet Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-cE1lWumHmb)
+- Live Site URL: [Visit Live](https://vivek-product-preview-card-component.netlify.app/)
 
 ## My process
 
