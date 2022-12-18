@@ -2,7 +2,7 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
   font-size: 14px;
 }
 body {
@@ -11,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  box-sizing: border-box;
 }
 .main {
   display: flex;
